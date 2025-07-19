@@ -10,6 +10,7 @@ import 'package:i18n_extension/i18n_extension.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
